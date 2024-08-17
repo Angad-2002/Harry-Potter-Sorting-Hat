@@ -29,7 +29,7 @@ def submit_form():
         for m in range(len(values)):
             values[m] = calc(values[m], 120)
 
-        with open("model.bin", "rb") as file:
+        with open("filename.pkl", "rb") as file:
             model = pickle.load(file)
         
         P = model.predict ([values])
@@ -41,5 +41,5 @@ def page2():
     return render_template('page2.html')
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
 
