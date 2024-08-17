@@ -29,7 +29,7 @@ def submit_form():
         for m in range(len(values)):
             values[m] = calc(values[m], 120)
 
-        with open("filename.pkl", "rb") as file:
+        with open("model.bin", "rb") as file:
             model = pickle.load(file)
         
         P = model.predict ([values])
