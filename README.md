@@ -44,8 +44,10 @@ To achieve their ends.’
 - [Dataset](#dataset)
 - [Results](#results)
 - [Model Details](#model-details)
+- [Screenshots and Video](#screenshots-and-video)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ---
 
@@ -161,6 +163,26 @@ The project employs the **Gaussian Naive Bayes Classifier** to classify individu
   - Works well with smaller datasets.
   - Handles continuous data effectively by modeling feature likelihoods with Gaussian distribution.
   - Provides fast predictions, ideal for a real-time application like this.
+
+---
+
+## Screenshots and Video
+
+### Screenshots
+1. **Homepage**  
+   ![Homepage](images/homepage.png)
+
+2. **Personality Input Form**  
+   ![Input Form](images/personality-input.png)
+
+3. **Prediction Results Page**  
+   ![Results Page](images/results.png)
+
+### Video Demo
+Watch the application in action:  
+[![Video Demo](images/demo-thumbnail.png)](https://www.youtube.com/watch?v=your-demo-video-link)  
+
+> *Click the thumbnail to watch the video on YouTube.*
 
 ---
 
