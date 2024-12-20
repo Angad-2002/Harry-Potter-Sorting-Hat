@@ -169,18 +169,25 @@ The project employs the **Gaussian Naive Bayes Classifier** to classify individu
 ## Screenshots and Video
 
 ### Screenshots
-1. **Homepage**  
+
+1. **Homepage**
+
    ![Screenshot 2024-12-20 214311](https://github.com/user-attachments/assets/ebde5d9b-301f-4475-9c11-7cbe11df5dfe)
 
-2. **Personality Input Page**  
+2. **Personality Input Page**
+    
    ![Screenshot 2024-12-20 214321](https://github.com/user-attachments/assets/3246f842-eb4e-49ed-89a6-f6cf6a1d0d6b)
 
-3. **Prediction Results Page**  
+3. **Prediction Results Page**
+   
    ![image](https://github.com/user-attachments/assets/21b50605-7637-49ba-86fb-339c22c8d76a)
 
 ### Video Demo
+
 Watch the application in action:
+
 [![Watch the Video Demo](https://img.youtube.com/vi/qdcVZqIlih8/maxresdefault.jpg)](https://youtu.be/qdcVZqIlih8)
+
 > *Click the thumbnail to watch the video on YouTube.*
 
 ---
