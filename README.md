@@ -180,8 +180,7 @@ The project employs the **Gaussian Naive Bayes Classifier** to classify individu
 
 ### Video Demo
 Watch the application in action:
-[![Video Demo](images/qdcVZqIlih8.png)](https://youtu.be/qdcVZqIlih8)  
-
+[![Watch the Video Demo](https://img.youtube.com/vi/qdcVZqIlih8/maxresdefault.jpg)](https://youtu.be/qdcVZqIlih8)
 > *Click the thumbnail to watch the video on YouTube.*
 
 ---
